@@ -1,0 +1,15 @@
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\StackExchange.Redis.Provider.Common.dll
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\StackExchange.Redis.Provider.Common.pdb
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\obj\Debug\StackExchange.Redis.Provider.Common.csprojResolveAssemblyReference.cache
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\obj\Debug\StackExchange.Redis.Provider.Common.dll
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\obj\Debug\StackExchange.Redis.Provider.Common.pdb
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\Jil.dll
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\MsgPack.dll
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\Newtonsoft.Json.dll
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\protobuf-net.dll
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\Jil.pdb
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\Jil.xml
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\MsgPack.xml
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\Newtonsoft.Json.xml
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\protobuf-net.pdb
+E:\开发项目\开发\redis\StackExchange.Redis.Provider\StackExchange.Redis.Provider.Common\bin\Debug\protobuf-net.xml
